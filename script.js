@@ -33,7 +33,7 @@ function setGradient() {
 function setRandomColor() {
     color1.value= randomColor();
     color2.value= randomColor();
-    setGradient()
+    setGradient();
 }
 
 // Listens to click events
