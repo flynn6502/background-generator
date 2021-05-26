@@ -55,7 +55,7 @@ h3 {
     background-color: #4CAF50;
     border: none;
     border-radius: 15px;
-    box-shadow: 0 9px #999;
+    box-shadow: -5px 5px rgb(107, 93, 93);
 }
   
 .button:hover {
@@ -64,7 +64,7 @@ h3 {
   
 .button:active {
     background-color: #3e8e41;
-    box-shadow: 0 5px #666;
+    box-shadow: -2px 2px rgb(107, 93, 93);
     transform: translateY(4px);
 }
 
