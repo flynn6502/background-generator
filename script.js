@@ -1,3 +1,6 @@
+import {without} from 'lodash';
+console.log(without);
+
 // Variables Declarations
 var css = document.querySelector("h3");
 var color1 = document.querySelector(".color1");
